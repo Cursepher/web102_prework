@@ -79,3 +79,31 @@ button {
     margin: 1%;
     border-radius: 7px;
 }
+
+.site-footer {
+    background-color: #1e2b38;
+    color: #f1f1f1;
+    text-align: center;
+    padding: 2rem 1rem;
+    margin-top: 2rem;
+    font-size: 0.9rem;
+  }
+  
+  .footer-content a {
+    color: #86e1f9;
+    text-decoration: none;
+  }
+  
+  .footer-content a:hover {
+    text-decoration: underline;
+  }
+  
+  .social-icons {
+    margin-top: 0.5rem;
+  }
+  
+  .social-icons a {
+    margin: 0 0.5rem;
+    font-size: 1.2rem;
+  }
+  

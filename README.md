@@ -17,7 +17,8 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-* [ ] List anything else that you can get done to improve the app functionality!
+* [x] Added a <title> tag in your <head> so the browser tab displays the site's name.
+* [x] Added a footer with CSS styling.
 
 ## Video Walkthrough
 
